@@ -42,4 +42,4 @@ The following are the list of available methods
 * gettemp()
 
 ## Terms
-[Yahoo APIs Terms of Use](https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.htm)
+* [Yahoo APIs Terms of Use](https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.htm)
