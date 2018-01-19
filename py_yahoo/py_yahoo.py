@@ -1,5 +1,5 @@
 import requests
-from YWeathermethods import YWeathermethods
+from .YWeathermethods import YWeathermethods
 class YWeather:
     
     baseurl="https://query.yahooapis.com/v1/public/yql"
