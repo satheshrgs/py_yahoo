@@ -1,9 +1,9 @@
 # py_yahoo
-- - -
+
 A Python Wrapper for [Yahoo Weather API](https://developer.yahoo.com/weather/)  
 
 Documentation for the API is avilable [here](https://developer.yahoo.com/weather/documentation.html)
-- - - 
+
 ## Installation:
 ```
 pip install py_yahoo
