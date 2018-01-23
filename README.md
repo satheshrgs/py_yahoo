@@ -23,7 +23,7 @@ yw.unit("c")
 
 w=yw.getweather()
 
-print(m.getatmosphere())   #{'humidity': '58', 'pressure': '1013.0', 'rising': '0', 'visibility': '16.1'}
+print(w.getatmosphere())   #{'humidity': '58', 'pressure': '1013.0', 'rising': '0', 'visibility': '16.1'}
 ```
 
 ## Methods
